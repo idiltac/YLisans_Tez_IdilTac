@@ -1,0 +1,119 @@
+initialize() {
+	//simulate 10 Mb segment
+	defineConstant("L", 10000000);
+
+	//set the mutation rate
+	defineConstant("mu", 1e-8);
+
+	 // nucleotide-based simulation
+ 	initializeSLiMOptions(nucleotideBased=T);
+
+ 	//generate random order of ACGTs of length "L" defined above
+ 	initializeAncestralNucleotides(randomNucleotides(L));
+ 	//Introduce nucleotide-based neutral mutations -> dominance coeff is 0.5, DFE was set to fixed fittness effect, selection coeff is zero -> neutral
+ 	initializeMutationTypeNuc("m1", 0.5, "f", 0.0);
+ 	m1.convertToSubstitution = F;
+
+ 	initializeGenomicElementType("g1", m1, 1.0, mmJukesCantor(mu));
+ 	initializeGenomicElement(g1, 0, L-1);
+
+ 	//set the recombination rate
+ 	initializeRecombinationRate(1e-8);
+}
+
+// generation time = 25 years
+// p1= modern humans and Neandertals prior, burn-in period of 70,000 generations
+
+1 early() { 
+        sim.addSubpop("p1", 10000);
+}
+
+// p2=Neanderthal, p3 currently represents ancestor of all Modern Humans, Time of Human and  Neandertal  split at 500,000 years ago (20000 generations), Ne of Neandertals and modern humans set to constant values of 1,000 and 10,000
+
+50000 early() {
+        sim.addSubpopSplit("p2",1000,p1); // p2= Neandertal, p1= Root
+        sim.addSubpopSplit("p3",10000,p1); // p3= Modern Humans, p1= Root 
+}
+
+
+// split of African and non-African populations at 60 kya, p4 currently represents ancestor of Africa, p5= non-African, yaklaşık 55 kya 2400 gen., p4= Africa, p3= Modern Humans , p5= non-African
+
+67600 early() { 
+    sim.addSubpopSplit("p4",10000,p3); 
+    sim.addSubpopSplit("p5",10000,p3);
+}
+
+// Following the split, the non- African population experienced a bottleneck with N = 1861, 5 kya generation- 200 generation
+
+67800 early() { 
+    p5.setSubpopulationSize(1861); 
+} 
+
+
+// Neandertal migrations to non-African starts 50 kya= 2000 generation ago, p5=non- African, p2=Neanderthal
+
+68000 early() {
+     p5.setMigrationRates(p2,0.03);
+}
+
+
+// p6= Basal Eurasian, Time of Basal European split 1740 generation, Time of Anatolian Farmers and CHG divergence 928 generation, Time of WHG and EHG divergence 696 generation ago, p6=Basal European, p5=non-African
+
+68260 early() {
+        sim.addSubpopSplit("p6",5000,p5); 
+}
+
+68800 early(){
+// Neandertal migrations to non-African ends 30 kya= 1200 generation ago, remove the Neandertal population
+         p5.setMigrationRates(p2,0);
+         p2.setSubpopulationSize(0);
+}
+
+
+// p7= CHG pop. size 10,000. Time of Anatolian Neolithic and CHG divergence 928 gen., p7=CHG, p8=Ancestor of Ancestor of Anatolia Farmer
+
+69072 early() {
+        sim.addSubpopSplit("p7",10000,p6);
+        sim.addSubpopSplit("p8",10000,p6);
+}
+
+
+// p9 represents WHG population size 10,000, Time of WHG and EHG divergence 696 generations ago,  p10= EHG pop. size 10,000.
+
+69304 early() {
+        sim.addSubpopSplit("p9",10000,p6); 
+        sim.addSubpopSplit("p10",10000,p6); 
+}
+        
+
+
+// Add admixture  Anatolia Neolithic 518 generations ago (10899 BCE), p7= CHG, p8= Ancestor of Anatolia Farmer, p9 =  WHG
+//Anatolia Neolithic
+69482 early() {
+p8.setMigrationRates(c(p9, p7), c(0.274, 0.387));
+}
+
+//Add admixture Anatolia Chalcolithic 340 generations ago (8500 BP), p7= CHG 
+//Anatolia Chalcolithic 
+
+69660 early() {
+p8.setMigrationRates(p7, 0.329);
+}
+
+//generate vcf file for anatolia paleolithic 15000 BP= 600 gen =  69400 gen.
+69400 late() {
+              p8.outputVCFSample(100, replace=T, filePath="p8.69400.Scenario1a.vcf",  simplifyNucleotides=T); }
+
+//generate vcf file for anatolia neolithic 10000- 6000 BP = 400-240 gen = 69600-69760
+69600:69760 late() {
+              p8.outputVCFSample(100, replace=T, filePath="p8.69600_69760.Scenario1a.vcf",  simplifyNucleotides=T); }
+
+//generate vcf file for anatolia ca+ba 5200-3200 BP= 208 gen-128 gen = 69792 - 69892 gen 
+69792:69892 late() {
+              p8.outputVCFSample(100, replace=T, filePath="p8.69792_69892.Scenario1a.vcf",  simplifyNucleotides=T); }              
+
+//generate vcf file for anatolia present day 0 BP 70000 generations
+70000 late() {
+              p8.outputVCFSample(100, replace=T, filePath="p8.70000.Scenario1a.vcf",  simplifyNucleotides=T); }
+
+
