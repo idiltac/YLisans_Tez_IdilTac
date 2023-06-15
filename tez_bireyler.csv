@@ -1,0 +1,356 @@
+Birey_ID,Tarihlendirme(GÖ),Okuma_Derinliği,Kültür,Gruplar,Country,Publication,Enlem,Boylam,Veri_Tipi,Cinsiyet,Ind_type
+06A010111,0,34.4146,Turkish,Günümüz,Turkey,Alkan2014,39.925533,32.866287,Rastgele dizileme,M,Modern
+08P210611,0,33.1532,Turkish,Günümüz,Turkey,Alkan2014,41.183224,41.830982,Rastgele dizileme,F,Modern
+24D220611,0,36.2631,Turkish,Günümüz,Turkey,Alkan2014,39.7464,39.4914,Rastgele dizileme,F,Modern
+25A220611,0,28.6162,Turkish,Günümüz,Turkey,Alkan2014,39.9097,41.2756,Rastgele dizileme,M,Modern
+31P140611,0,31.3075,Turkish,Günümüz,Turkey,Alkan2014,36.200001,36.166668,Rastgele dizileme,F,Modern
+32A140611,0,31.4907,Turkish,Günümüz,Turkey,Alkan2014,37.768002,30.561905,Rastgele dizileme,M,Modern
+33M140611,0,30.7503,Turkish,Günümüz,Turkey,Alkan2014,36.812103,34.641479,Rastgele dizileme,M,Modern
+34S291210,0,34.5783,Turkish,Günümüz,Turkey,Alkan2014,41.015137,28.97953,Rastgele dizileme,M,Modern
+35C240511,0,32.4198,Turkish,Günümüz,Turkey,Alkan2014,38.423733,27.142826,Rastgele dizileme,M,Modern
+38I220611,0,32.3497,Turkish,Günümüz,Turkey,Alkan2014,38.734802,35.467987,Rastgele dizileme,M,Modern
+42S291210,0,28.0957,Turkish,Günümüz,Turkey,Alkan2014,37.874641,32.493156,Rastgele dizileme,M,Modern
+48S210611,0,31.6792,Turkish,Günümüz,Turkey,Alkan2014,36.6206,29.1142,Rastgele dizileme,F,Modern
+50G301210,0,32.7185,Turkish,Günümüz,Turkey,Alkan2014,38.626995,34.719975,Rastgele dizileme,F,Modern
+52C130611,0,32.4496,Turkish,Günümüz,Turkey,Alkan2014,40.97793,37.870851,Rastgele dizileme,F,Modern
+57M220611,0,28.5471,Turkish,Günümüz,Turkey,Alkan2014,42.026829,35.162525,Rastgele dizileme,M,Modern
+65A220611,0,40.2026,Turkish,Günümüz,Turkey,Alkan2014,38.499817,43.378143,Rastgele dizileme,M,Modern
+HGDP00920,0,32.8431,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00924,0,32.7562,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00925,0,32.9394,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00926,0,32.4068,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00929,0,33.8384,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00930,0,79.1794,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00931,0,35.7965,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00933,0,34.8364,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00934,0,36.3877,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00935,0,36.7182,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00937,0,37.0279,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00938,0,31.8879,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00939,0,35.6717,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,F,Modern
+HGDP00940,0,36.8242,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00941,0,38.2785,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00942,0,36.1432,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00943,0,36.8611,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+HGDP00944,0,36.8193,Yoruba,Günümüz,Nigeria,BergstromScience2020,8,5,Rastgele dizileme,M,Modern
+BOG028,50,1.27005,Anatolia_Bogazkoy_Ottoman,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,40.02,34.61,Rastgele dizileme,F,Antik
+I14823,298,0.248867,TUR_Marmara_Balıkesir_PostMdv,Neolitik Sonrası,Turkey,LazaridisScience2022,40.39,27.79,1240K,M,Antik
+I20323,300,0.278924,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I20324,300,0.272082,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I20325,300,0.217641,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I20326,300,0.267031,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20329,300,0.262083,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I14844,311,0.19934,TUR_Marmara_İznik_Y.kapı_PostMdv,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,M,Antik
+I14820,315,0.249244,TUR_Marmara_Balıkesir_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.39,27.79,1240K,F,Antik
+I20328,318,0.240601,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I4540,319,0.152421,TUR_SE_Mardin_PostMdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.415,41.373,1240K,M,Antik
+I4539,330,0.136308,TUR_SE_Mardin_PostMdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.415,41.373,1240K,M,Antik
+I20571,332,0.288793,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+MA2195,350,0.791846,Ottoman,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,F,Antik
+MA2196,350,0.244202,Ottoman,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,F,Antik
+I20573,510,0.264027,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20572,525,0.242772,TUR_Aegean_Muğla_Çapalıbağ_Mdv,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I14645,650,0.0911572,TUR_SE_Gaziantep_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.87,37.54,1240K,M,Antik
+I14647,650,0.0342411,TUR_SE_Gaziantep_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.87,37.54,1240K,M,Antik
+I14651,650,0.0715875,TUR_SE_Gaziantep_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.87,37.54,1240K,M,Antik
+I14652,650,0.0134123,TUR_SE_Gaziantep_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.87,37.54,1240K,M,Antik
+I16571,650,0.00384848,TUR_SE_Gaziantep_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.87,37.54,1240K,F,Antik
+I19539,650,0.0566048,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,F,Antik
+I20143,650,0.0525643,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I20144,650,0.022847,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I20145,650,0.227434,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,F,Antik
+I20146,650,0.373684,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I20147,650,0.143772,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I20187,650,0.224807,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I20574,650,0.286566,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,F,Antik
+I20141,750,0.181309,TUR_Aegean_Muğla_Stratonikeia_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I14648,792,0.174223,TUR_SE_Gaziantep_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.87,37.54,1240K,F,Antik
+I14787,900,0.0234884,TUR_SE_Kilis_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,M,Antik
+I14791,925,0.0618265,TUR_SE_Kilis_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,F,Antik
+I14821,950,0.191367,TUR_Marmara_Balıkesir_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.39,27.79,1240K,F,Antik
+I14822,950,0.211143,TUR_Marmara_Balıkesir_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.39,27.79,1240K,F,Antik
+I14831,950,0.215714,TUR_Marmara_Balıkesir_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.39,27.79,1240K,F,Antik
+I14832,950,0.232116,TUR_Marmara_Balıkesir_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.39,27.79,1240K,M,Antik
+I4534,1050,0.206343,TUR_SE_Mardin_RomByz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.177,40.952,1240K,F,Antik
+I4533,1066,0.19453,TUR_SE_Mardin_RomByz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.177,40.952,1240K,M,Antik
+I14760,1069,0.00972426,TUR_SE_Kilis_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,F,Antik
+I10430,1127,0.204044,TUR_Marmara_Ilıpınar_Byz3,Neolitik Sonrası,Turkey,LazaridisScience2022,40.48,29.296,1240K,M,Antik
+I4532,1130,0.227203,TUR_SE_Mardin_RomByz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.177,40.952,1240K,M,Antik
+I10429,1150,0.0107645,TUR_Marmara_Ilıpınar_Byz1,Neolitik Sonrası,Turkey,LazaridisScience2022,40.48,29.296,1240K,F,Antik
+I10546,1150,0.0363471,TUR_Marmara_Ilıpınar_Byz2,Neolitik Sonrası,Turkey,LazaridisScience2022,40.48,29.296,1240K,M,Antik
+I4475,1176,0.196348,TUR_SE_Mardin_RomByz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.177,40.952,1240K,M,Antik
+I20259,1233,0.269086,TUR_Aegean_Muğla_Samantaş_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20260,1233,0.262683,TUR_Aegean_Muğla_Samantaş_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I20261,1233,0.0210273,TUR_Aegean_Muğla_Samantaş_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20264,1233,0.231489,TUR_Aegean_Muğla_Samantaş_Byz_brother.I20265,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20266,1233,0.203836,TUR_Aegean_Muğla_Samantaş_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20320,1233,0.0183605,TUR_Aegean_Muğla_Samantaş_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I14833,1250,0.0476321,TUR_Marmara_İznik_Y.kapı_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,M,Antik
+I14842,1250,0.110195,TUR_Marmara_İznik_Y.kapı_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,F,Antik
+I14843,1250,0.118418,TUR_Marmara_İznik_Y.kapı_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,M,Antik
+I4613,1250,0.196662,TUR_SE_Mardin_RomByz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.415,41.373,1240K,F,Antik
+I8366,1250,0.140433,TUR_Marmara_İznik_Basilica_RomByz_A,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,M,Antik
+I8369,1250,0.233347,TUR_Marmara_İznik_Basilica_RomByz_B,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,F,Antik
+I8370,1250,0.0513675,TUR_Marmara_İznik_Basilica_RomByz_A,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,M,Antik
+I8371,1250,0.163216,TUR_Marmara_İznik_Basilica_RomByz_A,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,F,Antik
+I8373,1250,0.0729404,TUR_Marmara_İznik_Basilica_RomByz_A,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,F,Antik
+I4474,1285,0.128328,TUR_SE_Mardin_RomByz,Neolitik Sonrası,Turkey,LazaridisScience2022,37.177,40.952,1240K,M,Antik
+I14824,1389,0.203218,TUR_Marmara_Balıkesir_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.39,27.79,1240K,M,Antik
+I14839,1409,0.207197,TUR_Marmara_İznik_Y.kapı_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,F,Antik
+I14840,1412,0.0476165,TUR_Marmara_İznik_Y.kapı_Byz,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,F,Antik
+I20000,1474,0.233312,TUR_Aegean_Muğla_Camandras_Dalagöz_Rom,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I20001,1474,0.191309,TUR_Aegean_Muğla_Camandras_Dalagöz_Rom,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,F,Antik
+I20139,1474,0.0879501,TUR_Aegean_Muğla_Camandras_Dalagöz_Rom,Neolitik Sonrası,Turkey,LazaridisScience2022,37.3,28.03,1240K,M,Antik
+I8372,1525,0.217982,TUR_Marmara_İznik_Basilica_RomByz_B,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,F,Antik
+I14799,1550,0.0660438,TUR_Marmara_İznik_Basilica_RomByz_A,Neolitik Sonrası,Turkey,LazaridisScience2022,40.42,29.71,1240K,M,Antik
+I4530,1588,0.181651,TUR_BlackSea_Samsun_Anc_A,Neolitik Sonrası,Turkey,LazaridisScience2022,41.313,36.33,1240K,M,Antik
+BOG019,1600,0.311275,Anatolia_Bogazkoy_Rome,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,40.02,34.61,Rastgele dizileme,M,Antik
+I4531,1613,0.1933,TUR_BlackSea_Samsun_Anc_C,Neolitik Sonrası,Turkey,LazaridisScience2022,41.313,36.33,1240K,M,Antik
+I4529,1631,0.187386,TUR_BlackSea_Samsun_Anc_C,Neolitik Sonrası,Turkey,LazaridisScience2022,41.313,36.33,1240K,M,Antik
+I14845,1750,0.0554445,TUR_Marmara_Apollonia_Rom,Neolitik Sonrası,Turkey,LazaridisScience2022,40.18,28.69,1240K,F,Antik
+I16583,1750,0.00062011,TUR_Marmara_Apollonia_Rom,Neolitik Sonrası,Turkey,LazaridisScience2022,40.18,28.69,1240K,M,Antik
+I16584,1750,0.00275087,TUR_Marmara_Apollonia_Rom,Neolitik Sonrası,Turkey,LazaridisScience2022,40.18,28.69,1240K,M,Antik
+I16585,1750,0.0006595,TUR_Roman_o_lc,Neolitik Sonrası,Turkey,LazaridisScience2022,40.18,28.69,1240K,M,Antik
+BOG020,1760,2.09808,Anatolia_Bogazkoy_Rome,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,40.02,34.61,Rastgele dizileme,M,Antik
+BOG024,1760,0.461303,Anatolia_Bogazkoy_Rome,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,40.02,34.61,Rastgele dizileme,M,Antik
+GOR001,2020,7.19899,Anatolia_Gordion_IA,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,39.65,31.97,Rastgele dizileme,M,Antik
+GOR002,2020,0.0709739,Anatolia_Gordion_IA,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,39.65,31.97,Rastgele dizileme,F,Antik
+MA2197,2050,0.102907,Hellenistic,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,F,Antik
+MA2198,2050,0.694206,Hellenistic,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,F,Antik
+I3308,2051,0.00211472,TUR_Aegean_Bodrum_Halikarnassos_Anc3,Neolitik Sonrası,Turkey,LazaridisScience2022,37.044768,27.436551,1240K,F,Antik
+I3309,2051,0.00087814,TUR_Aegean_Bodrum_Halikarnassos_Anc1,Neolitik Sonrası,Turkey,LazaridisScience2022,37.044768,27.436551,1240K,M,Antik
+I3310,2051,0.0127398,TUR_Aegean_Bodrum_Halikarnassos_Anc1,Neolitik Sonrası,Turkey,LazaridisScience2022,37.044768,27.436551,1240K,F,Antik
+I3311,2051,0.095066,TUR_Aegean_Bodrum_Halikarnassos_Anc1,Neolitik Sonrası,Turkey,LazaridisScience2022,37.044768,27.436551,1240K,M,Antik
+I3916,2051,0.0612384,TUR_C_Gordion_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,39.65248,31.996659,1240K,F,Antik
+I4472,2051,0.173901,TUR_BlackSea_Samsun_Anc_A,Neolitik Sonrası,Turkey,LazaridisScience2022,41.313,36.33,1240K,F,Antik
+I4473,2051,0.187688,TUR_BlackSea_Samsun_Anc_B,Neolitik Sonrası,Turkey,LazaridisScience2022,41.313,36.33,1240K,F,Antik
+I6573,2051,0.0397656,TUR_C_Gordion_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,39.65248,31.996659,1240K,F,Antik
+I6574,2051,0.040823,TUR_C_Gordion_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,39.65248,31.996659,1240K,F,Antik
+I5228,2073,0.00157301,TUR_BlackSea_Samsun_Anc_A,Neolitik Sonrası,Turkey,LazaridisScience2022,41.116,36.422,1240K,M,Antik
+I14635,2120,0.190281,TUR_SE_Batman_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.79,41.01,1240K,F,Antik
+I14731,2120,0.00159077,TUR_SE_Batman_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.79,41.01,1240K,F,Antik
+I14734,2120,0.0465419,TUR_SE_Batman_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.79,41.01,1240K,M,Antik
+I5255,2134,0.00215609,TUR_SE_Mardin_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.415,41.373,1240K,F,Antik
+I3303,2186,0.020402,TUR_Aegean_Bodrum_Halikarnassos_Anc2,Neolitik Sonrası,Turkey,LazaridisScience2022,37.044768,27.436551,1240K,M,Antik
+I14733,2418,0.0967751,TUR_SE_Batman_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.79,41.01,1240K,M,Antik
+I20228,2500,0.0681441,TUR_Aegean_Muğla_Değirmendere_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I20229,2500,0.240746,TUR_Aegean_Muğla_Değirmendere_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I20230,2500,0.185654,TUR_Aegean_Muğla_Değirmendere_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20231,2500,0.0544152,TUR_Aegean_Muğla_Değirmendere_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,M,Antik
+I20232,2500,0.0715244,TUR_Aegean_Muğla_Değirmendere_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.34,28.04,1240K,F,Antik
+I14644,2540,0.150127,TUR_SE_Batman_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,37.79,41.01,1240K,F,Antik
+I3917_all,2564,0.194157,TUR_C_Gordion_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,39.65248,31.996659,1240K,F,Antik
+I4029_all,2564,0.308767,TUR_C_Gordion_Anc,Neolitik Sonrası,Turkey,LazaridisScience2022,39.65248,31.996659,1240K,M,Antik
+I14765,2770,0.113594,TUR_E_Van_Urartian,Neolitik Sonrası,Turkey,LazaridisScience2022,38.34,43.45,1240K,M,Antik
+I19611,2770,0.00073379,TUR_E_Van_Urartian,Neolitik Sonrası,Turkey,LazaridisScience2022,40.18,43.45,1240K,F,Antik
+I19612,2770,0.020517,TUR_E_Van_Urartian,Neolitik Sonrası,Turkey,LazaridisScience2022,38.34,43.45,1240K,M,Antik
+I19613,2770,0.105633,TUR_E_Van_Urartian,Neolitik Sonrası,Turkey,LazaridisScience2022,38.34,43.45,1240K,F,Antik
+I20577,2770,0.189765,TUR_E_Van_Urartian,Neolitik Sonrası,Turkey,LazaridisScience2022,38.34,43.45,1240K,F,Antik
+I14767,3238,0.154797,TUR_E_Van_BIA_pre-Urartian,Neolitik Sonrası,Turkey,LazaridisScience2022,38.98,43.75,1240K,F,Antik
+ALA039,3323,0.0824282,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA001,3345,0.0773794,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA018,3346,0.0698441,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA020,3415,0.0593636,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA030,3477,0.0979131,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA017,3486,0.0385082,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+I14759,3520,0.0624665,TUR_SE_Kilis_MBA,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,F,Antik
+I16574,3520,0.00022444,TUR_MBA_lc,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,U,Antik
+MA2200,3520,1.96354,Old Hittite,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,M,Antik
+MA2203,3520,0.845682,Old Hittite,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,F,Antik
+ALA016,3526,0.0200734,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA019,3531,0.113844,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+I14786,3538,0.109755,TUR_SE_Kilis_MBA,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,F,Antik
+I14762,3561,0.120773,TUR_SE_Kilis_MBA,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,M,Antik
+ALA011,3644,0.0809487,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA026,3648,0.20314,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA014,3650,0.0642068,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+I14784,3652,0.11859,TUR_SE_Kilis_MBA,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,M,Antik
+ALA028,3686,0.135953,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA034,3686,0.120668,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA025,3706,0.0717338,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA013,3713,0.272733,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA029,3715,0.0711121,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA008,3720,0.0796431,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA037,3721,0.0124829,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+MA2205,3770,0.704461,Assyrian,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,M,Antik
+MA2206,3770,0.408031,Assyrian,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,F,Antik
+MA2208,3770,0.086511,Assyrian,Neolitik Sonrası,Turkey,DamgaardScience2018,39.345805,33.78813,Rastgele dizileme,M,Antik
+ALA004,3772,0.0706022,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA095,3776,0.0432854,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA023,3783,0.00608055,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+CTG025,3792,0.183057,Anatolia_CineTepecik_BA,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,37.6,28.01,Rastgele dizileme,F,Antik
+ALA035,3794,0.0128466,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA084,3797,0.00560176,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+ALA024,3799,0.00285858,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,F,Antik
+ALA015,3801,0.0338632,Alalakh_MLBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.23778,36.38472,1240K,M,Antik
+I5737,3920,0.0744608,TUR_Aegean_Izmir_Yassitepe_MBA,Neolitik Sonrası,Turkey,LazaridisScience2022,38.42,27.14,1240K,M,Antik
+I14788,4020,0.0697602,TUR_SE_Kilis_MBA,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,M,Antik
+I14794,4020,0.0356717,TUR_SE_Kilis_EBA_A,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,F,Antik
+I14797,4020,0.0661914,TUR_SE_Kilis_EBA_A,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,M,Antik
+I14798,4020,0.0558039,TUR_SE_Kilis_EBA_A,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,M,Antik
+I16577,4020,0.00040867,TUR_EBA_lc,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,M,Antik
+MA2210,4020,0.809377,Anatolia Early Bronze Age,Neolitik Sonrası,Turkey,DamgaardScience2018,38.629306,34.297718,Rastgele dizileme,M,Antik
+MA2212,4020,0.780556,Anatolia Early Bronze Age,Neolitik Sonrası,Turkey,DamgaardScience2018,38.629306,34.297718,Rastgele dizileme,M,Antik
+MA2213,4020,1.07314,Anatolia Early Bronze Age,Neolitik Sonrası,Turkey,DamgaardScience2018,38.629306,34.297718,Rastgele dizileme,F,Antik
+TIT003,4120,0.00016162,TitrişHöyük_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,37.4759306,38.6783333,1240K,M,Antik
+TIT012,4120,0.00133605,TitrişHöyük_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,37.4759306,38.6783333,1240K,U,Antik
+TIT014,4120,0.00037671,TitrişHöyük_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,37.4759306,38.6783333,1240K,U,Antik
+TIT015,4120,0.00019728,TitrişHöyük_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,37.4759306,38.6783333,1240K,U,Antik
+TIT019,4120,0.00013631,TitrişHöyük_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,37.4759306,38.6783333,1240K,U,Antik
+TIT025,4120,0.00101428,TitrişHöyük_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,37.4759306,38.6783333,1240K,U,Antik
+I14649,4149,0.00821699,TUR_SE_Gaziantep_BA,Neolitik Sonrası,Turkey,LazaridisScience2022,36.87,37.54,1240K,M,Antik
+TIT021,4161,0.0017727,TitrişHöyük_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,37.4759306,38.6783333,1240K,M,Antik
+I14792,4221,0.0968448,TUR_SE_Kilis_EBA_A,Neolitik Sonrası,Turkey,LazaridisScience2022,36.69,37.17,1240K,F,Antik
+I2495_all,4315,0.394119,TUR_Med_Isparta_BA,Neolitik Sonrası,Turkey,LazaridisScience2022,37.91774,30.70839,1240K,M,Antik
+ART001,4321,0.0651341,Arslantepe_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+I7079,4371,0.00546899,TUR_BlackSea_Amasya_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,40.69,35.56,1240K,M,Antik
+I2683_all,4487,0.322247,TUR_Med_Isparta_BA,Neolitik Sonrası,Turkey,LazaridisScience2022,37.91774,30.70839,1240K,F,Antik
+I2499,4492,0.00968002,Anatolia_BronzeAge,Neolitik Sonrası,Turkey,LazaridisNature2017,37.91774,30.70839,1240K,F,Antik
+ART009,4517,0.385299,Arslantepe_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,F,Antik
+I5744,4520,0.0313104,TUR_BlackSea_Amasya_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,40.69,35.56,1240K,F,Antik
+ART010,4525,0.0544761,Arslantepe_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,F,Antik
+I5740,4526,0.113897,TUR_BlackSea_Amasya_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,40.69,35.56,1240K,F,Antik
+ART011,4595,0.0442524,Arslantepe_EBA,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+I4481,4653,0.0578168,TUR_SE_Şırnak_BA,Neolitik Sonrası,Turkey,LazaridisScience2022,37.5432,41.8662,1240K,F,Antik
+I5733,4694,0.0811541,TUR_Aegean_Izmir_Yassıtepe_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,38.42,27.14,1240K,F,Antik
+I5735,4870,0.0296133,TUR_Aegean_Izmir_Yassıtepe_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,38.42,27.14,1240K,F,Antik
+I5743,4927,0.156486,TUR_BlackSea_Amasya_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,40.69,35.56,1240K,F,Antik
+I5742,4935,0.193977,TUR_BlackSea_Amasya_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,40.69,35.56,1240K,F,Antik
+I4614,4940,0.0158872,TUR_SE_Şırnak_BA,Neolitik Sonrası,Turkey,LazaridisScience2022,37.5432,41.8662,1240K,M,Antik
+I4615,4945,0.104156,TUR_SE_Şırnak_BA,Neolitik Sonrası,Turkey,LazaridisScience2022,37.5432,41.8662,1240K,M,Antik
+ulu117,5020,0.343337,Anatolia_Ulucak_BA,Neolitik Sonrası,Turkey,KoptekinCurrentBiology2023,38.48,27.35,Rastgele dizileme,F,Antik
+ART012,5051,0.100672,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,F,Antik
+IKI002,5115,0.0035319,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+ART026,5116,0.144547,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,F,Antik
+I5741,5116,0.0225603,TUR_BlackSea_Amasya_EBA,Neolitik Sonrası,Turkey,LazaridisScience2022,40.69,35.56,1240K,F,Antik
+I4480,5122,0.0162057,TUR_SE_Şırnak_ChL_C,Neolitik Sonrası,Turkey,LazaridisScience2022,37.5432,41.8662,1240K,F,Antik
+I4483,5122,0.0409131,TUR_SE_Şırnak_ChL_A,Neolitik Sonrası,Turkey,LazaridisScience2022,37.5432,41.8662,1240K,M,Antik
+ART017,5123,0.0549245,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+ART020,5125,0.141247,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+ART038,5125,0.0184981,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+ART027,5128,0.0807347,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+ART015,5130,0.240067,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+IKI009,5135,0.00400366,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+ART023,5137,0.0236554,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+IKI012,5138,0.00559633,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+ART014,5139,0.06563,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+ART018,5142,0.0661096,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+ART032,5144,0.165005,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+IKI017,5144,0.00275325,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+ART022,5157,0.0733312,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+IKI034,5372,0.0074435,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+ART019,5375,0.0224606,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+IKI030,5377,0.00231477,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+IKI016,5391,0.0111835,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+IKI036,5394,0.00409862,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+CBT005,5397,0.0506059,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,M,Antik
+I10542,5397,0.111215,TUR_Marmara_Ilıpınar_ChL,Neolitik Sonrası,Turkey,LazaridisScience2022,40.48,29.296,1240K,M,Antik
+CBT001,5399,0.09906,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,F,Antik
+IKI038,5401,0.00214931,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,F,Antik
+IKI037,5402,0.00568683,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,M,Antik
+CBT014,5405,0.125777,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,M,Antik
+CBT003,5528,0.00216724,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,F,Antik
+CBT010,5528,0.0639993,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,F,Antik
+CBT011,5528,0.106654,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,F,Antik
+CBT015,5542,0.0811592,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,M,Antik
+I14627,5545,0.0292149,TUR_SE_Batman_ChL,Neolitik Sonrası,Turkey,LazaridisScience2022,37.79,41.01,1240K,F,Antik
+I4622,5545,0.0121427,TUR_SE_Şırnak_ChL_B,Neolitik Sonrası,Turkey,LazaridisScience2022,37.5432,41.8662,1240K,M,Antik
+CBT016,5548,0.135079,ÇamlıbelTarlası_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.019745,34.586129,1240K,F,Antik
+ART004,5662,0.00502949,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+ART039,5666,0.00932416,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,F,Antik
+ART005,5674,0.017805,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,F,Antik
+I1584_v43.5_all,5680,0.251631,TUR_Marmara_Barcın_ChL,Neolitik Sonrası,Turkey,LazaridisScience2022,40.3,29.56,1240K,F,Antik
+ART042,5728,0.236839,Arslantepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,38.381944,38.361111,1240K,M,Antik
+IKI024,5819,0.00396636,İkiztepe_LC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,41.6136944,35.8711361,1240K,M,Antik
+I10545,6020,0.0612349,TUR_Marmara_Ilıpınar_ChL,Neolitik Sonrası,Turkey,LazaridisScience2022,40.48,29.296,1240K,M,Antik
+I10547,6020,0.0297608,TUR_Marmara_Ilıpınar_ChL,Neolitik Sonrası,Turkey,LazaridisScience2022,40.48,29.296,1240K,F,Antik
+kum4,6700,0.00873638,Anatolia_Neolithic,Neolitik,Turkey,OmrakCurrentBiology2016,39.95,26.2,Rastgele dizileme,F,Antik
+kum6,6700,0.0993862,Anatolia_Neolithic,Neolitik,Turkey,OmrakCurrentBiology2016,39.95,26.2,Rastgele dizileme,F,Antik
+KRD002,6869,0.00736878,TellKurdu_MC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.329405,36.444255,1240K,M,Antik
+CBT018,7535,0.0650301,Büyükkaya_EC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,40.022056,34.620611,1240K,F,Antik
+I0723,7620,0.0317126,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.26,29.65,1240K,M,Antik
+I0724,7620,0.0105947,TUR_Marmara_Menteşe_N,Neolitik,Turkey,LazaridisScience2022,40.26,29.65,1240K,M,Antik
+I0724,7620,0.00292425,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.26,29.65,1240K,M,Antik
+I0726,7620,0.0270386,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.26,29.65,1240K,F,Antik
+I0727,7620,0.0125288,TUR_Marmara_Menteşe_N,Neolitik,Turkey,LazaridisScience2022,40.26,29.65,1240K,M,Antik
+I0727,7620,0.00477077,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.26,29.65,1240K,M,Antik
+KRD003,7642,0.0238042,TellKurdu_EC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.329405,36.444255,1240K,M,Antik
+KRD004,7652,0.00370686,TellKurdu_EC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.329405,36.444255,1240K,F,Antik
+KRD001,7660,0.0108485,TellKurdu_EC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.329405,36.444255,1240K,M,Antik
+KRD005,7684,0.00214562,TellKurdu_EC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.329405,36.444255,1240K,M,Antik
+KRD006,7720,0.0177404,TellKurdu_EC,Neolitik Sonrası,Turkey,SkourtaniontiCell2020,36.329405,36.444255,1240K,F,Antik
+I0723,7855,0.0608581,TUR_Marmara_Menteşe_N,Neolitik,Turkey,LazaridisScience2022,40.26,29.65,1240K,M,Antik
+CCH285,7970,0.0704374,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+CCH294,7970,0.257745,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,M,Antik
+CCH311,7970,0.130959,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+I1585,8027,0.379656,TUR_Marmara_Barcın_N,Neolitik,Turkey,LazaridisScience2022,40.3,29.56666667,1240K,F,Antik
+I1579,8048,0.313284,TUR_Marmara_Barcın_N,Neolitik,Turkey,LazaridisScience2022,40.3,29.56666667,1240K,F,Antik
+Bar8,8050,6.01755,Anatolia Early Neolithic,Neolitik,Turkey,HofmanovaPNAS2016,40.3037,29.6085,Rastgele dizileme,F,Antik
+cth739,8095,0.189873,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+I0854,8101,0.102259,TUR_Marmara_Barcın_N_sister.of.I0736,Neolitik,Turkey,LazaridisScience2022,40.3037,29.6085,1240K,F,Antik
+I1580,8108,0.296273,TUR_Marmara_Barcın_N,Neolitik,Turkey,LazaridisScience2022,40.3037,29.6085,1240K,F,Antik
+Bar25,8205,8.86314,EN,Neolitik,Turkey,MarchiCell2022,40.266964,29.602068,Rastgele dizileme,M,Antik
+I0707,8220,0.469355,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,F,Antik
+I0708,8220,0.352023,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I0709,8220,0.477074,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I0744,8220,0.153666,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I0745,8220,0.448817,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I0746,8220,0.459065,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I1096,8220,0.0966149,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I1098,8220,0.106788,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,F,Antik
+I1099,8220,0.0339293,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I1100,8220,0.0120858,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,F,Antik
+I1101,8220,0.058212,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I1102,8220,0.0196502,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I1103,8220,0.0411708,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I11949,8220,0.0010513,TUR_Marmara_Barcin_N,Neolitik,Turkey,LazaridisScience2022,40.3,29.56666667,1240K,M,Antik
+I1579,8220,0.117153,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3,29.56666667,1240K,F,Antik
+I1580,8220,0.205574,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,F,Antik
+I1581,8220,0.131864,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,F,Antik
+I1583,8220,0.408621,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3037,29.57,1240K,M,Antik
+I1585,8220,0.154639,Anatolia_Neolithic,Neolitik,Turkey,MathiesonNature2015,40.3,29.56666667,1240K,F,Antik
+I1581,8248,0.174371,TUR_Marmara_Barcın_N,Neolitik,Turkey,LazaridisScience2022,40.3037,29.6085,1240K,F,Antik
+I1583,8253,0.548301,TUR_Marmara_Barcın_N,Neolitik,Turkey,LazaridisScience2022,40.3037,29.6085,1240K,M,Antik
+Bar31,8258,3.22912,Anatolia Early Neolithic,Neolitik,Turkey,HofmanovaPNAS2016,40.3037,29.6085,Rastgele dizileme,M,Antik
+cth217,8260,0.0522858,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+Tep004,8280,0.447504,Anatolia Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,38.172218,34.49387,Tüm genom yakalama + rastgele dizileme,F,Antik
+АКТ16,8460,8.58423,EN,Neolitik,Turkey,MarchiCell2022,40.174351,28.771164,Rastgele dizileme,F,Antik
+Tep003,8495,0.655736,Anatolia Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,38.172218,34.49387,Tüm genom yakalama + rastgele dizileme,M,Antik
+cth747,8510,0.115017,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+cth006,8515,0.0690948,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+cth842,8525,0.0809264,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+pch034,8525,0.0852693,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+CCH290,8610,0.011885,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,M,Antik
+Tep002,8610,0.678236,Anatolia Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,38.172218,34.49387,Tüm genom yakalama + rastgele dizileme,F,Antik
+CCH163,8615,0.0308252,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,F,Antik
+CCH289,8655,0.0653925,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,M,Antik
+Tep001,8655,0.0219963,Anatolia Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,38.172218,34.49387,Tüm genom yakalama + rastgele dizileme,M,Antik
+CCH144,8700,0.0567056,Anatolia_Neolithic,Neolitik,Turkey,YakaSomelCurrBio2021,37.6661,32.8257,Rastgele dizileme,M,Antik
+mus006,9059,0.0794988,Anatolia_Musular_N,Neolitik,Turkey,KoptekinCurrentBiology2023,38.35,34.22,Rastgele dizileme,M,Antik
+mus005,9187,2.33328,Anatolia_Musular_N,Neolitik,Turkey,KoptekinCurrentBiology2023,38.35,34.22,Rastgele dizileme,F,Antik
+Ash002,9495,0.0215091,Anatolia_EarlyNeolithic,Neolitik,Turkey,YakaSomelCurrBio2021,38.3482,34.2303,Rastgele dizileme,F,Antik
+cay011,9544,0.034318,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,"Consistent with 
+
+XY but not XX",Antik
+cay004,9558,0.00025915,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,F,Antik
+Ash040,9610,0.0257766,Anatolia_EarlyNeolithic,Neolitik,Turkey,YakaSomelCurrBio2021,38.3482,34.2303,Rastgele dizileme,F,Antik
+cay013,9626,0.138447,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,F,Antik
+cay016,9626,0.0381796,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,F,Antik
+Ash136,9725,0.139512,Anatolia_EarlyNeolithic,Neolitik,Turkey,YakaSomelCurrBio2021,38.3482,34.2303,Rastgele dizileme,F,Antik
+Ash129,9755,0.744252,Anatolia_EarlyNeolithic,Neolitik,Turkey,YakaSomelCurrBio2021,38.3482,34.2303,Rastgele dizileme,F,Antik
+cay012,9778,0.0389231,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,M,Antik
+cay012,9778,0.0389231,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,M,Antik
+cay1820,9778,0.06475,early PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,F,Antik
+cay1820,9778,0.06475,early PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,F,Antik
+ZKO_BON001,9820,0.0715004,Anatolia Early Neolithic,Neolitik,Turkey,FeldmanNatureCommunications2019,37.75,32.866667,1240K,M,Antik
+ZMOJ_BON014,9820,0.0471168,Anatolia Early Neolithic,Neolitik,Turkey,FeldmanNatureCommunications2019,37.75,32.866667,1240K,M,Antik
+cay014,9832,0.0400976,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,F,Antik
+Bon001,9972,0.1555,Anatolia Early Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,37.75191,32.864901,Tüm genom yakalama + rastgele dizileme,M,Antik
+Bon004,9972,0.227853,Anatolia Early Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,37.75191,32.864901,Tüm genom yakalama + rastgele dizileme,M,Antik
+Ash128,9975,4.79937,Anatolia_EarlyNeolithic,Neolitik,Turkey,YakaSomelCurrBio2021,38.3482,34.2303,Rastgele dizileme,F,Antik
+Bon002,9997,6.3169,Anatolia Early Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,37.75191,32.864901,Tüm genom yakalama + rastgele dizileme,F,Antik
+ZHAG_BON004,10220,0.138448,Anatolia Early Neolithic,Neolitik,Turkey,FeldmanNatureCommunications2019,37.75,32.866667,1240K,F,Antik
+ZHAJ_BON034,10220,0.0601604,Anatolia Early Neolithic,Neolitik,Turkey,FeldmanNatureCommunications2019,37.75,32.866667,1240K,F,Antik
+cay022,10252,0.0334612,PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,F,Antik
+Bon005,10260,0.036434,Anatolia Early Neolithic,Neolitik,Turkey,KilincCurrentBiology2016,37.75191,32.864901,Tüm genom yakalama + rastgele dizileme,F,Antik
+cay007,10326,0.464762,PPNA- PPNB,Neolitik,Turkey,AltınışıkScienceAdvance2022,38.218286,39.725585,Rastgele dizileme,M,Antik
