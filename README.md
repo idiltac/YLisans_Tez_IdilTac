@@ -8,6 +8,6 @@ Tez analizleri ve veriler
     + [Senaryo](https://github.com/idiltac/YLisans_Tez_IdilTac/blob/main/Scenario1a.txt)
 
 3. **Kullanılan Bireyler**: Tez kapsamında derlenen yayınlanmış antik ve modern genomların bilgileri.
-    + [Bireyler]
+    + [Bireyler](https://github.com/idiltac/YLisans_Tez_IdilTac/blob/main/tez_bireyler.csv)
 4. **Kullanılan TNP'ler**: Tez kapsamında seçilen varyantların bilgileri.
-    + [TNP'ler]
+    + [TNP'ler](https://github.com/idiltac/YLisans_Tez_IdilTac/blob/main/Tez_TNPler.csv)
