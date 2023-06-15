@@ -1,4 +1,4 @@
-setwd("/mnt/NEOGENE4/projects/medical_2020/ancient/project_3501/mathieson2015_freqs/freqs/Ancient/analysis1")
+setwd("")
 library(tidyverse)
 library(ggpubr)
 library(data.table)
