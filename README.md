@@ -5,7 +5,7 @@ Tez analizleri ve veriler
     + [Alel Frekans Hesaplamaları](https://github.com/idiltac/YLisans_Tez_IdilTac/blob/main/AlelFrekansHesaplama.R) Mathieson vd 2015'ten (https://www.nature.com/articles/nature16152) uyarlanan alel frekansı hesaplaması için komut dosyası içerir.
           
 2. **İleri Zamanlı Genetik Benzetim Analizleri**: SLiM ile verilerin nasıl simüle edildiğini gösteren komut dosyaları.
-    + [Senaryo](https://github.com/PalaeogeneticsandPopulationGenetics/Tacidil_2023/blob/main/Scenario1a.txt)
+    + [Senaryo](https://github.com/idiltac/YLisans_Tez_IdilTac/blob/main/Scenario1a.txt)
 
 3. **Kullanılan Bireyler**: Tez kapsamında derlenen yayınlanmış antik ve modern genomların bilgileri.
     + [Bireyler]
