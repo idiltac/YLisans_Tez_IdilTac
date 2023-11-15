@@ -1,0 +1,70 @@
+setwd("/Users/idiltac/Dropbox/2023_Article_3501/ALLELE_FREQUENCY/allele_freq_article/")
+library(dplyr)
+library(stringr)
+
+#samtools mpileup ile oluşturulan vcf dosyalarından GATK ile ilgilenilen kolonlar seçilmişti ve table dosyaları oluşturulmuştu. Bu dosyaların son kolonuna linuxta dosya ismi eklendi ve sonra tüm dosyalar birleştirildi
+#birleştirilen dosya -> all_variant_calling_results.table dosyası alel frekansı hesaplamaları için gerekli olan input dosyası haline getirilmelidir. 
+#Bu scriptin amacı varyant çağırma sonuçlarını alel frekansı hesaplamaları için uygun haline getirmektir
+
+
+#GATK çıktısı olan varyant çağırma dosyaları içeriğini düzenleme
+table= read.csv("/Users/idiltac/Dropbox/2023_Article_3501/DATA/all_variant_calling_results.table", header = T, sep = "\t")
+head(table)
+colnames(table)= c( "CHROM", "Position" ,"DP" ,  "DP4" ,"REF", "ALT", "BamID")
+
+
+inds_info = read.csv("inds_info", sep= "\t", header=T)
+head(inds_info)
+
+
+table$POS <- paste(table$CHROM,"_", table$Position); head(table)
+table$POS <- gsub(" _ ", '_', table$POS); head(table)
+table_edit1= as.data.frame(str_split_fixed(table$DP4, ",", 4)); head(table_edit1)
+table_edit2=  as.data.frame( cbind(table$POS, table$DP, table_edit1$V1, table_edit1$V2, table_edit1$V3, table_edit1$V4,table$REF, table$ALT, table$BamID ))
+head(table_edit2)
+colnames(table_edit2)= c("POS","DP","Ref1","Ref2","Alt1","Alt2","REF","ALT", "BAMID" );head(table_edit2)
+
+
+table_edit2_A= subset(table_edit2, REF == "A")
+table_edit2_C= subset(table_edit2, REF == "C")
+table_edit2_G= subset(table_edit2, REF == "G")
+table_edit2_T= subset(table_edit2, REF == "T")
+
+df=  rbind(table_edit2_A, table_edit2_C, table_edit2_G, table_edit2_T); head( df)
+
+
+
+#inds_info----
+
+snp_info=  read.csv("SNP_info.tsv", header = T, sep = "\t"); head(snp_info)
+unique(snp_info$Disease)
+#varyant çağırma sonuçlarını SNP listesi dosyası ve birey listesi dosyası ile merge etme
+merged_df= merge(df, snp_info, by="POS")
+anti_join(snp_info, df, by="POS")
+merged_df= merge(inds_info, merged_df,by="BAMID")
+anti_join(merged_df, inds_info, by="BAMID")
+anti_join(inds_info, merged_df, by="BAMID")
+
+merged_df$Ref1 <- as.numeric(merged_df$Ref1)
+merged_df$Ref2 <- as.numeric(merged_df$Ref2)
+merged_df$Alt1 <- as.numeric(merged_df$Alt1)
+merged_df$Alt2 <- as.numeric(merged_df$Alt2)
+
+merged_df$Total_RAC <- ifelse(merged_df$Riskallele == merged_df$Ref1, merged_df$Ref1 +merged_df$Ref2 ,merged_df$Alt1 +merged_df$Alt2 ) #eğer risk allele referans allele ile aynıysa, iki referans allele okuma sayısını topla ve Total_RAC kolonu olarak ekle
+
+merged_df$Total_nonRAC <- ifelse(merged_df$Riskallele != merged_df$Ref,merged_df$Ref1 +merged_df$Ref2 ,merged_df$Alt1 +merged_df$Alt2)
+head(merged_df)
+mpileup_article <-  as.data.frame( cbind(merged_df$BAMID ,merged_df$Country, merged_df$Date,  merged_df$Gruplar, merged_df$POS, merged_df$Id, merged_df$Disease, merged_df$Total_RAC , merged_df$DP))
+
+head(mpileup_article)
+colnames(mpileup_article) <- c("SampleName","Country","DateBP",  "Analysis" ,"POS","SNP_ID","Phenotype","R","T")
+head(mpileup_article)
+unique(mpileup_article$Phenotype)
+mpileup_article$DateBP= as.numeric(mpileup_article$DateBP)
+
+unique(mpileup_article$Analysis1)
+
+unique(mpileup_article$Analysis1)
+
+write.csv(mpileup_article, "Variantcallingresults_for_allelefreq_article.csv")
+
